@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>Welcome to Accio</title>
+	
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <script src="js/jquery-1.11.2.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+
+	<div id="header">
+		<p><a class="suite" href="#">Take a tour</a></p>
+	</div>
+
+	<div id="body">
+
+		<a href="http://www.accio.ml" style="color:white;text-decoration:none;font-family:sans-serif;font-size:400%;">
+		<p>Accio : More than just a fridge</p>
+		</a>
+		
+		<a href="media/accio.apk" target="_blank" download="pact53.accio.apk" style="color:white;text-decoration:none;font-family:sans-serif;">
+			<p><h1>Download the App</h1></p>
+			<p><img src="img/qrcode.svg" alt="your browser doesn't support SVG" width=25% hight=25%/></p>
+		</a>
+	
+		<p><iframe width="853" height="480" src="https://www.youtube.com/embed/m-fAcKRzm1I?rel=0" frameborder="0" allowfullscreen></iframe></p>
+	
+		<p><h1><a href="media/Accio.mp4" target="_blank" download="Accio.mp4" style="color:white;text-decoration:none;font-family:sans-serif;">Download the Video</a></h1></p>
+		<a href="https://twitter.com/AccioFridge" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AccioFridge</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	</div>
+
+<div id="credits">Designed for Accio by Perceval</div>
+
+</body>
+</html>
